@@ -1,3 +1,7 @@
+// Agustin Lasarte - Comision 1
+// Link https://www.youtube.com/watch?v=KwRcY60BIIY
+ 
+
 let obra;
 let filas = 30;
 let cantidadBase = 6;
@@ -59,3 +63,4 @@ function filaDeCirculos(xInicial, y, diametroBase, cantidad, espaciado, mousePos
 function mousePressed() {
   modoOscuro = !modoOscuro;
 }
+
