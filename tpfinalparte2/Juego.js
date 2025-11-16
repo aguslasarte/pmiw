@@ -1,3 +1,4 @@
+/*Usamos los botones.html para optimizar codigo y el proceso de el estado y "hitbox" del mismo*/ 
 class Boton {
   constructor(p, x, y, ancho, alto, texto, accion) {
     this.p = p;
@@ -319,3 +320,4 @@ class Juego {
     p.pop();
   }
 }
+
