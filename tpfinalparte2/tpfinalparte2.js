@@ -1,5 +1,5 @@
 //PESTAÑA 1 (tpfinalparte2)
-
+// https://youtu.be/kS1BmPvp11s
 new p5(function(p) {
   let juegoInst;
 
@@ -32,3 +32,4 @@ new p5(function(p) {
     juegoInst.dibujar();
   };
 });
+
